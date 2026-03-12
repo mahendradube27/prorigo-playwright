@@ -1,0 +1,28 @@
+{
+    "pageNumber1" : "1",
+    "pageNumber2" : "2",
+    "pageNumber3" : "3",
+    "pageNumber4" : "4",
+    "pageNumber5" : "5",
+    "pageNumber6" : "6",
+
+    "page1_Message" : "Showing 1 to 10 of 57 entries",
+    "page2_Message" : "Showing 11 to 20 of 57 entries",
+    "page3_Message" : "Showing 21 to 30 of 57 entries",
+    "page4_Message" : "Showing 31 to 40 of 57 entries",
+    "page5_Message" : "Showing 41 to 50 of 57 entries",
+    "page6_Message" : "Showing 51 to 57 of 57 entries",
+
+
+    "dropDown1" : "10",
+    "dropDown2" : "25",
+    "dropDown3" : "50",
+    "dropDown4" : "100",
+
+    "dropDown1_Message" : "Showing 1 to 10 of 57 entries",
+    "dropDown2_Message" : "Showing 1 to 25 of 57 entries",
+    "dropDown3_Message" : "Showing 1 to 50 of 57 entries",
+    "dropDown4_Message" : "Showing 1 to 57 of 57 entries"
+    
+
+}
